@@ -1,8 +1,13 @@
-Nombre y Apellido: Miriam Alicia González.
-DNI: 37016076.
-E-mail: miriamgonzalez121@gmail.com 
-Sede: Tandil.
-Temática: Proyecto de Angular para gestionar la compra de Fragancias. 
+# Nombre y Apellido: 
+Miriam Alicia González.
+# DNI: 
+37016076.
+# E-mail: 
+miriamgonzalez121@gmail.com 
+# Sede: 
+Tandil.
+# Temática: 
+Proyecto de Angular para gestionar la compra de Fragancias. 
 
 # Fragancias
 
