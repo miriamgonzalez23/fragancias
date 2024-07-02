@@ -8,6 +8,8 @@ miriamgonzalez121@gmail.com
 Tandil.
 # Temática: 
 Proyecto de Angular para gestionar la compra de Fragancias. 
+# Stackblits:
+https://stackblitz.com/~/github.com/miriamgonzalez23/fragancias
 
 # Fragancias
 
