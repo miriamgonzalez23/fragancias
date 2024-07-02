@@ -1,3 +1,9 @@
+Nombre y Apellido: Miriam Alicia González.
+DNI: 37016076.
+E-mail: miriamgonzalez121@gmail.com 
+Sede: Tandil.
+Temática: Proyecto de Angular para gestionar la compra de Fragancias. 
+
 # Fragancias
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
